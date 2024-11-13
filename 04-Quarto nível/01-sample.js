@@ -21,3 +21,4 @@ const exibirNomePlaneta = (nome) => {
 };
 
 buscarPlaneta();
+;

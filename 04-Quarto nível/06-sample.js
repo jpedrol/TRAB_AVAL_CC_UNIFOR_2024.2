@@ -17,3 +17,4 @@ async function buscarNave(id) {
 
 buscarNave(idNave);
 
+;

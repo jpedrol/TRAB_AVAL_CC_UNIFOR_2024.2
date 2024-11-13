@@ -150,3 +150,5 @@ const tres = 3;
 console.log("Resultado do cálculo:", calcular(OPERACAO_SOMA, dois, tres));
 console.log("Resultado do processamento de dados:", processarDados(LIMITE_PROCESSAMENTO));
 console.log("Resultado da função:", funcao());
+
+;

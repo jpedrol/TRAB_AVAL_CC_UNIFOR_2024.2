@@ -40,3 +40,4 @@ const mostrarResultado = (personagem) => {
 };
 
 buscarPersonagem();
+;

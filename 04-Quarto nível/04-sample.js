@@ -12,3 +12,5 @@ async function buscarPersonagem(id) {
 
 const lukeId = 1;
 buscarPersonagem(lukeId);
+
+;
